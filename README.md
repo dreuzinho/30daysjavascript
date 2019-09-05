@@ -1,4 +1,4 @@
-#Repositório criado para armazenar os projetos do Desafio "#JavaScript30" (https://javascript30.com/).#<br/>
+## Repositório criado para armazenar os projetos do Desafio "#JavaScript30" (https://javascript30.com/).<br/>
 O projeto "#JavaScript30" tem como objetivo criar 30 projetos durante 30 dias (1 projeto por dia) e é totalmente baseado em JavaScript Vanilla.<br/>
 <br/>
 Após a finalização dos projetos irei revisa-los e aprimora-los, adicionando novas funções e tecnologias.
