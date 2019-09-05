@@ -1,6 +1,10 @@
-Repositório criado para armazenar os projetos do Desafio "#JavaScript30" (https://javascript30.com/).
+#Repositório criado para armazenar os projetos do Desafio "#JavaScript30" (https://javascript30.com/).
+O projeto "#JavaScript30" tem como objetivo criar 30 projetos durante 30 dias (1 projeto por dia) e é totalmente baseado em JavaScript Vanilla.
+
+Após a finalização dos projetos irei revisa-los e aprimora-los, adicionando novas funções e tecnologias.
+
 <ol>
-<li>[x] 01 - JS Drum Kit</li>
+<li>[x] 01 - JS Drum Kit (04/09)</li>
 <li>[ ] 02 - JS and CSS Clock</li>
 <li>[ ] 03 - CSS Variables</li>
 <li>[ ] 04 - Array Cardio Day 1</li>
@@ -30,4 +34,6 @@ Repositório criado para armazenar os projetos do Desafio "#JavaScript30" (https
 <li>[ ] 28 - Video Speed Controller</li>
 <li>[ ] 29 - Countdown Timer</li>
 <li>[ ] 30 - Whack A Mole</li>
-<ol>
+</ol>
+
+Iniciado dia 04/09/2019.
