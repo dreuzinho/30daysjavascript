@@ -6,7 +6,7 @@ Após a finalização dos projetos irei revisa-los e aprimora-los, adicionando n
 <ol>
 <li>[x] 01 - JS Drum Kit (04/09)</li>
 <li>[x] 02 - JS and CSS Clock (05/09)</li>
-<li>[ ] 03 - CSS Variables</li>
+<li>[x] 03 - CSS Variables (06/09)</li>
 <li>[ ] 04 - Array Cardio Day 1</li>
 <li>[ ] 05 - Flex Panel Gallery</li>
 <li>[ ] 06 - Type Ahead</li>
