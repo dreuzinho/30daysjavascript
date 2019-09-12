@@ -10,8 +10,8 @@ Após a finalização dos projetos irei revisa-los e aprimora-los, adicionando n
 <li>[x] 04 - Array Cardio Day 1 (07/09 Independence Day 🇧🇷)</li>
 <li>[x] 05 - Flex Panel Image Gallery (08/09)</li>
 <li>[x] 06 - Type Ahead (09/09)</li>
-<li>[ ] 07 - Array Cardio Day 2</li>
-<li>[ ] 08 - Fun with HTML5 Canvas</li>
+<li>[x] 07 - Array Cardio Day 2 (11/09 :mask:)</li>
+<li>[x] 08 - Fun with HTML5 Canvas (11/09 :mask:)</li>
 <li>[ ] 09 - Dev Tools Domination</li>
 <li>[ ] 10 - Hold Shift and Check Checkboxes</li>
 <li>[ ] 11 - Custom Video Player</li>
