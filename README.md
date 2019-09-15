@@ -12,7 +12,7 @@ Após a finalização dos projetos irei revisa-los e aprimora-los, adicionando n
 <li>[x] 06 - Type Ahead (09/09)</li>
 <li>[x] 07 - Array Cardio Day 2 (11/09 :mask:)</li>
 <li>[x] 08 - Fun with HTML5 Canvas (11/09 :mask:)</li>
-<li>[ ] 09 - Dev Tools Domination</li>
+<li>[x] 09 - Dev Tools Domination (15/09 :mask:)</li>
 <li>[ ] 10 - Hold Shift and Check Checkboxes</li>
 <li>[ ] 11 - Custom Video Player</li>
 <li>[ ] 12 - Key Sequence Detection</li>
