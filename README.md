@@ -15,7 +15,7 @@ Após a finalização dos projetos irei revisa-los e aprimora-los, adicionando n
 <li>[x] 09 - Dev Tools Domination (15/09 :mask:)</li>
 <li>[x] 10 - Hold Shift and Check Checkboxes (15/09 :mask:)</li>
 <li>[x] 11 - Custom Video Player (15/09 :mask:)</li>
-<li>[ ] 12 - Key Sequence Detection</li>
+<li>[x] 12 - Key Sequence Detection</li>
 <li>[ ] 13 - Slide in on Scroll</li>
 <li>[ ] 14 - JS References VS Copying</li>
 <li>[ ] 15 - LocalStorage</li>
