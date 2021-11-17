@@ -17,12 +17,12 @@ Após a finalização dos projetos irei revisa-los e aprimora-los, adicionando n
 <li>[x] 11 - Custom Video Player (15/09 :mask:)</li>
 <li>[x] 12 - Key Sequence Detection (30/09)</li>
 <li>[x] 13 - Slide in on Scroll (01/10)</li>
-<li>[ ] 14 - JS References VS Copying</li>
-<li>[ ] 15 - LocalStorage</li>
-<li>[ ] 16 - Mouse Move Shadow</li>
-<li>[ ] 17 - Sort Without Articles</li>
-<li>[ ] 18 - Adding Up Times with Reduce</li>
-<li>[ ] 19 - Webcam Fun</li>
+<li>[x] 14 - JS References VS Copying</li>
+<li>[x] 15 - LocalStorage</li>
+<li>[x] 16 - Mouse Move Shadow</li>
+<li>[x] 17 - Sort Without Articles</li>
+<li>[x] 18 - Adding Up Times with Reduce</li>
+<li>[...] 19 - Webcam Fun</li>
 <li>[ ] 20 - Speech Detection</li>
 <li>[ ] 21 - Geolocation</li>
 <li>[ ] 22 - Follow Along Link Highlighter</li>
