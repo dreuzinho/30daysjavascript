@@ -22,7 +22,7 @@ Após a finalização dos projetos irei revisa-los e aprimora-los, adicionando n
 <li>[x] 16 - Mouse Move Shadow</li>
 <li>[x] 17 - Sort Without Articles</li>
 <li>[x] 18 - Adding Up Times with Reduce</li>
-<li>[...] 19 - Webcam Fun</li>
+<li>[ ] 19 - Webcam Fun</li>
 <li>[ ] 20 - Speech Detection</li>
 <li>[ ] 21 - Geolocation</li>
 <li>[ ] 22 - Follow Along Link Highlighter</li>
